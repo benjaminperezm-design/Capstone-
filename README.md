@@ -1,2 +1,1 @@
-# Capstone-
-Proyecto de reciclaje 
+
