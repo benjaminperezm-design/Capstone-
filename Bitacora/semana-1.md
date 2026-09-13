@@ -49,3 +49,8 @@ Como equipo Recicaps nos comprometemos a desarrollar una propuesta funcional, cl
 - Formación del equipo y definición de normas, valores y compromisos.
 - Definición del desafío y objetivo general del proyecto.
 - Identificación inicial de actores, residuos y necesidades de información.
+
+## Foto del equipo
+
+![Foto del equipo](imagenes/imagenGrupo.jpg)
+
