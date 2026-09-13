@@ -52,5 +52,5 @@ Como equipo Recicaps nos comprometemos a desarrollar una propuesta funcional, cl
 
 ## Foto del equipo
 
-![Foto del equipo](imagenes/imagenGrupo.jpg)
+![Foto del equipo](imagenGrupo/imagenGrupo.jpg)
 
