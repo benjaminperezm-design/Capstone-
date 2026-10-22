@@ -331,4 +331,4 @@ Estos indicadores deberán calcularse a partir de datos reales obtenidos durante
 
 > Convertir los residuos en información útil y la participación en una oportunidad para construir un Hub más sostenible.
 
-**EcoHub Providencia — Innovación para un futuro circular.**
+**Providencia — Innovación para un futuro circular.**
