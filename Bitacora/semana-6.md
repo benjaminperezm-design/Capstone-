@@ -1,6 +1,6 @@
 
 
-# ♻️ EcoHub Providencia
+# LLUVIA DE IDEAS EN BASE DE LA VISITA AL HUB PROVIDENCIA
 
 ### 🌱 Innovación y sostenibilidad | Capstone Intermedio 2026
 
