@@ -1,71 +1,137 @@
-Semana 5 – Visita a Hub Providencia
+♻️ Semana 5 — Visita al Hub Providencia
 
-Actividad realizada
+Proyecto: Recicaps
+Lugar: Hub Providencia
+Actividad principal: Visita en terreno y levantamiento de información
 
-Durante esta semana, el equipo realizó una visita presencial al Hub Providencia con el objetivo de conocer directamente el lugar donde se desarrollará el proyecto Recicaps y comprender de mejor manera el funcionamiento actual de sus espacios y del sistema de reciclaje.
+⸻
 
-Durante la visita, personal del Hub Providencia nos explicó cómo funciona el lugar, cuáles son los distintos espacios de trabajo disponibles y qué herramientas e instalaciones pueden ser utilizadas por el equipo durante el desarrollo del proyecto.
+🏢 Visita al Hub Providencia
 
-También recorrimos diferentes sectores del Hub para conocer el entorno en el que se implementará el proyecto y observar directamente las zonas destinadas al reciclaje.
+Durante esta semana, el equipo realizó una visita presencial al Hub Providencia con el objetivo de conocer directamente el lugar donde se desarrollará el proyecto Recicaps y comprender de mejor manera su funcionamiento.
 
-Levantamiento de información
+Durante la visita, personal del Hub Providencia nos explicó cómo funciona el espacio, cuáles son sus principales áreas de trabajo y qué herramientas e instalaciones pueden ser utilizadas por nuestro equipo durante el desarrollo del proyecto.
+
+También recorrimos distintos sectores del Hub, incluyendo las zonas destinadas al reciclaje, lo que nos permitió observar directamente las condiciones actuales del lugar.
+
+⸻
+
+🔎 Levantamiento de información
 
 Como equipo, aprovechamos la visita para realizar preguntas relacionadas principalmente con la gestión actual de los residuos reciclables.
 
-Una de las principales preguntas realizadas fue:
+Una de nuestras preguntas principales fue:
 
-¿Actualmente cuentan con algún registro de la cantidad de residuos reciclables generados o retirados?
+❓ ¿Actualmente cuentan con algún registro de la cantidad de residuos reciclables generados o retirados?
 
-La respuesta obtenida fue que actualmente no se lleva un registro de los residuos reciclables.
+La respuesta entregada por el Hub Providencia fue que actualmente no llevan un registro de los residuos reciclables.
 
-También preguntamos cuáles eran las principales necesidades que identificaban respecto a la gestión del reciclaje. Se nos indicó que una de las principales dificultades es precisamente contar con un sistema que permita realizar un conteo y mantener un registro de los residuos reciclables.
+También preguntamos cuál consideraban que era una de las principales necesidades relacionadas con este proceso.
 
-Esta información resultó especialmente relevante para nuestro proyecto, ya que permitió confirmar directamente con el socio comunitario una de las necesidades que habíamos identificado anteriormente.
+La respuesta fue que necesitan principalmente:
 
-Observaciones realizadas
+Contar con una forma de medir, contabilizar y registrar los residuos reciclables.
 
-Durante el recorrido por las zonas de reciclaje observamos que los espacios destinados a la disposición de residuos son actualmente bastante básicos y cuentan principalmente con contenedores para la separación de los distintos tipos de residuos.
+Esta información fue muy importante para nuestro proyecto, ya que permitió confirmar directamente con el socio comunitario una de las necesidades que habíamos identificado previamente.
 
-Se observó que:
+⸻
 
-* No existe tecnología implementada para medir los residuos depositados.
-* No existe un sistema automático de conteo.
-* No se visualiza información relacionada con la cantidad de residuos reciclados.
-* No existe un registro automático de los residuos generados.
-* Las zonas de reciclaje cuentan con una infraestructura simple y con posibilidades de mejora.
-* El seguimiento actual depende principalmente de procesos manuales.
+👀 Observaciones realizadas
 
-Principales hallazgos
+Durante el recorrido observamos las condiciones actuales de los puntos de reciclaje.
 
-A partir de la visita pudimos identificar dos aspectos especialmente importantes para el desarrollo del proyecto:
+Situación observada
 
-1. Falta de registro de residuos
+Aspecto	Situación actual
+📊 Registro de residuos	No existe un registro organizado
+🔢 Conteo de residuos	No existe un sistema de conteo
+💻 Tecnología implementada	No se observó tecnología aplicada
+📈 Seguimiento de datos	No existen datos históricos visibles
+♻️ Puntos de reciclaje	Infraestructura básica
+✋ Proceso actual	Principalmente manual
 
-El Hub Providencia actualmente no dispone de información organizada que permita conocer cuánto material reciclable se genera o se recolecta.
+También observamos que las zonas de reciclaje son actualmente bastante básicas y presentan oportunidades de mejora, especialmente respecto al monitoreo y obtención de información.
 
-Esto dificulta realizar comparaciones, analizar tendencias y conocer con precisión el impacto de las actividades de reciclaje.
+⸻
 
-2. Necesidad de conteo y seguimiento
+💡 Principales hallazgos
 
-Una de las necesidades expresadas directamente por el Hub Providencia fue poder contar y registrar los residuos reciclables.
+1️⃣ Falta de registro de residuos
 
-Esto coincide con el desafío inicial del proyecto Recicaps, orientado al monitoreo, medición y registro de los residuos reciclables.
+El Hub Providencia actualmente no cuenta con un registro organizado de la cantidad de residuos reciclables generados o recolectados.
 
-Aprendizajes de la visita
+Esto dificulta conocer con precisión cuánto material se recicla y realizar comparaciones a lo largo del tiempo.
 
-La visita permitió al equipo comprender el problema desde una perspectiva real y no solamente desde los supuestos desarrollados durante las primeras semanas.
+⸻
 
-La conversación con el personal del Hub Providencia permitió validar que la falta de información y registro de los residuos representa una necesidad concreta.
+2️⃣ Necesidad de conteo y seguimiento
 
-Además, observar personalmente los puntos de reciclaje permitió identificar las condiciones actuales del espacio y comprender mejor el contexto en el cual deberá desarrollarse el proyecto.
+Una de las necesidades indicadas directamente por el Hub Providencia es poder:
 
-Próximos pasos
+* 🔢 Contabilizar los residuos.
+* 📝 Registrar la información.
+* 📊 Mantener datos históricos.
+* 📈 Realizar seguimiento del reciclaje.
 
-A partir de la información obtenida durante la visita, el equipo continuará trabajando en:
+Este hallazgo se relaciona directamente con el desafío del proyecto Recicaps.
 
-* Analizar métodos para realizar el conteo de residuos.
-* Determinar qué información sería importante registrar.
-* Identificar qué tipos de residuos deberían ser considerados.
-* Evaluar tecnologías que puedan ser utilizadas en los puntos de reciclaje.
-* Considerar las características físicas de los espacios observados.
-* Continuar validando las necesidades del Hub Providencia antes de definir la solución final.
+⸻
+
+3️⃣ Falta de tecnología en los puntos de reciclaje
+
+Durante la observación en terreno identificamos que los puntos de reciclaje no cuentan actualmente con sistemas tecnológicos destinados al monitoreo, medición o registro.
+
+Esto representa una oportunidad para investigar posteriormente diferentes alternativas que puedan apoyar la gestión de los residuos.
+
+⸻
+
+✅ Información validada
+
+La visita permitió transformar algunos de nuestros supuestos iniciales en información obtenida directamente del usuario y del lugar.
+
+Antes de la visita
+
+💭 Suponíamos que podía existir una falta de registro y seguimiento de los residuos.
+
+Después de la visita
+
+✅ Confirmamos con el Hub Providencia que actualmente no cuentan con un registro de los residuos reciclables y que una de sus principales necesidades es poder contarlos y registrar la información.
+
+⸻
+
+🧠 Aprendizajes obtenidos
+
+La visita permitió al equipo comprender el problema desde una perspectiva mucho más cercana a la realidad.
+
+Gracias al recorrido y a la conversación con el personal del Hub Providencia pudimos:
+
+* Comprender cómo funciona el espacio.
+* Conocer las herramientas disponibles para desarrollar el proyecto.
+* Observar directamente los puntos de reciclaje.
+* Identificar las condiciones actuales de estos espacios.
+* Validar información relacionada con el problema.
+* Conocer necesidades expresadas directamente por el socio comunitario.
+
+⸻
+
+🚀 Próximos pasos
+
+A partir de la información obtenida, el equipo continuará trabajando en:
+
+* 🔍 Investigar métodos para realizar el conteo de residuos.
+* 📊 Determinar qué información sería importante registrar.
+* ♻️ Identificar qué tipos de residuos deberían ser considerados.
+* ⚙️ Evaluar tecnologías que puedan ser utilizadas.
+* 📐 Considerar las características físicas de los puntos de reciclaje.
+* 👥 Continuar validando las necesidades de los usuarios.
+* 🛠️ Avanzar progresivamente hacia una posible propuesta de solución.
+
+⸻
+
+📌 Conclusión de la semana
+
+La visita al Hub Providencia permitió obtener información directamente desde el lugar donde se desarrolla el desafío.
+
+El hallazgo más relevante fue confirmar que actualmente no existe un registro sistemático de los residuos reciclables y que existe una necesidad concreta de contar y registrar esta información.
+
+Esta evidencia permitirá orientar de mejor manera las siguientes etapas del proyecto Recicaps.
