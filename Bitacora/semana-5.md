@@ -1,4 +1,4 @@
-# Semana 4 | Organización del pitch 
+# Semana 4 | Organización del pitch  
 
 ## Objetivo del pitch
 
