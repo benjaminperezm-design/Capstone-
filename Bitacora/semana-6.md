@@ -262,7 +262,7 @@ Incorpora la motivación y la participación colectiva como herramientas para fo
 
 ## 🌟 6. Propuesta integradora
 
-### EcoHub Providencia: reciclaje inteligente y participativo
+### Providencia: reciclaje inteligente y participativo
 
 Como oportunidad de desarrollo futuro, se propone integrar las cuatro ideas en un sistema que permita:
 
